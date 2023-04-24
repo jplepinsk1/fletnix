@@ -25,7 +25,7 @@ main {
     display: flex;
     justify-content: center;
     background-color: #00000099;
-    min-height:1000px;
+    min-height:700px;
 }
 main section {
     width: 500px;
